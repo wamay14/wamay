@@ -1,0 +1,2 @@
+# wamay
+pub
